@@ -1,4 +1,4 @@
-public class Exo4 {
+public class Ex04 {
 public static void main(String[] args) {
 String emptyCha = "";
 if(emptyCha.isEmpty()){
